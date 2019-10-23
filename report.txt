@@ -1,0 +1,150 @@
+--------------------7/10/2019---------------------------------
+Today's work: Learning Javascript
+Task Time: 8 hrs (Seeing videos)
+	- Introduction to the Complete JavaScript Course
+	- Setup Javascript
+	- Add Javascript to webpage
+	- Console Debug
+	- Practice Exercise
+	- Introduction to JavaScript Essentials
+	- Primitive Datatypes
+	- Javascript Variables
+	- Exercise Prompt
+	- Arithmetic operators
+	- Comparision operators
+	- Introduction to JavaScript Multiple Value Containers
+	- Javascript Arrays 
+	- Exercise Todo list
+	- Array properties
+	- Array Types
+Total Time: 8 hrs
+--------------------8/10/2019----------------------------
+
+Today's work: Learning Javascript
+Task Time: 8 hrs (Seeing videos tutorial)
+	- Modify and update Array
+	- Array Method
+	- Multidimensional Array and Array loop
+	- Javascript Object,Update Object and loop object
+	- Conditional Statements
+	- Looping,nested loop,break,continue
+	- Conditional Operator
+	- Exercise of conditional and looping statements
+	- Example of functions
+	- Introduction to DOM
+Total Time: 16 hrs
+--------------------9/10/2019----------------------------
+
+Today's work: Learning Javascript
+Task Time: 8 hrs (Seeing videos tutorial)
+	- Anonymous Function
+	- Selfinvoking Function
+	- Shuffle Array Function
+	- Remove Duplicate From Array
+	- Practicse example of functions
+	- DOM document
+	- Popup Model using javascript
+	- Practicse example of event handler,get element by id,tagname,classname and query selector
+	- Global Javascript Method
+	- Javascript Math Object
+Total Time: 24 hrs
+--------------------10/10/2019----------------------------
+
+Today's work: Learning Javascript
+Task Time: 8 hrs (Seeing videos tutorial and practicse examples)
+	- Regular Expressions
+	- Javascript Cookies
+	- HTML5 including canavas and animation in canavas
+	- JSON in detail with stringify and parse
+	- Ajax
+	- Introduction to ES6
+	- Let and const block level in ES6
+Total Time: 32 hrs
+--------------------11/10/2019----------------------------
+
+Today's work: Learning Javascript
+Task Time: 8 hrs (Seeing videos tutorial)
+	- This and new keyword
+	- Object and array in ES6
+	- String method in ES6
+	- Replacing value in string in ES6
+	- Function rest parameter in ES6
+	- ES6 function fat arrow
+	- Destructing objects and array in ES6
+	- Generator and iterator in ES6
+	- ES6 sets,maps and array
+	- Class constructor
+	- Validation
+Total Time: 40 hrs
+--------------------14/10/2019----------------------------
+
+Today's work: Learning React Native
+Task Time: 8 hrs 
+	- Introduction to react native
+	- Read about android mobile configuration
+	- Same about ios
+Total Time: 8 hrs
+--------------------15/10/2019---------------------------
+
+Today’s Work : Learning react native
+Task Time : 8 hours
+	- Watch videos tutorial of react native
+	- Refer react native documentation
+	- Try to reslove the problem of stimulation in Xcode
+Total Hours : 16
+--------------------16/10/2019---------------------------
+
+Today’s Work : Learning react native
+Task Time : 8 hours
+	- Try to reslove the problem of stimulation in Xcode
+	- Pc setup (previous pc crash)
+	- Watch videos tutorials of react native
+		- React native tutorial for beginners
+		- Build apps with react native :running XCode and iphone simulator
+Total Hours : 24
+--------------------17/10/2019---------------------------
+
+Today’s Work : Learning react native
+Task Time : 8 hours
+	- Watch videos tutorials of react native
+		- React native crash course
+		- Build apps with react native :running XCode and iphone simulator
+		- How to build IOS app using react native
+		- Getting started with style component in react native
+	- Refer document of react native components
+Total Hours : 32
+--------------------18/10/2019---------------------------
+
+Today’s Work : Learning react native
+Task Time : 6.5 hours
+	- Implement the following examples
+		- Examples for props,state,style
+		- Examples of layout with flexbox,handling text input,handling touches
+		- Examples of scrollview and listview
+Total Hours : 38.5
+--------------------21/10/2019---------------------------
+
+Today’s Work : Learning react native
+Task Time : 8 hours
+	- Refer to document of components and its property in detail
+	- Implement the properties of componets like 
+		- Button,Text,View,TouchableOpacity,TouchableHighlight
+	- Trying to make calculator app with all the basic components and its property
+Total Hours : 46.5
+--------------------22/10/2019---------------------------
+Today’s Work : Learning react native
+Task Time : 8 hours
+	- Implement calculator app with all the basic components and its property
+	- Refer to document of properties of textinput component 
+	- Implement the login page
+	- Trying to implement the registration page
+Total Hours : 54.5
+
+--------------------23/10/2019---------------------------
+Today’s Work : Learning react native
+Task Time : 8 hours
+	- Refer to document of properties of datepickerios,flatlist,sectionlist,maskedviewios,modal,slider,switch,refreshcontrol component and try to implement it 
+	- Implement the validation in login page
+	- Try to implement the registration page
+	- Try to implement the datepickerios component in birthday field
+Total Hours : 62.5
